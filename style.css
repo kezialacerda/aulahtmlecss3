@@ -1,0 +1,63 @@
+body{
+	background: #1C1C1C;
+	max-width: : 900px;
+    margin: auto;
+}
+.kezia1{
+	border-radius: 50%;
+
+}
+#title, .subtitle, .post_title{
+   color: #DCDCDC;	
+   font-family: 'courier new', monospace;
+}
+#title{
+	text-align: center;
+}
+.subtitle, .post-title{
+	text-align: left;
+}
+.post_title{
+	
+	font-size: 16px;
+	font-style: italic;
+	margin: 0;
+	margin-bottom: 15px;
+}
+.post{
+
+	background: #808080;
+	padding: 15px;
+	border: 2px dashed #FFFAFA;
+	margin-bottom: 15px;
+	border-radius: 15px;
+	text-align: justify;
+	font-family: 'courier new', monospace;
+	color: #DCDCDC;
+}
+.post-content{
+
+	margin: 0;
+	margin-bottom: 15px;
+}
+.post-img{
+	margin-bottom: 15px;
+	border-radius: 15px;
+}
+.footer-final{
+	color: #DCDCDC;
+	padding-top: 5px;
+	padding-left: 15px;
+	
+
+}
+#ul{
+	padding-left: 15px;
+}
+.face{
+list-style-image: url(facebook2.jpg);
+
+}
+.link{
+list-style-image: url(link.jpg);
+}
